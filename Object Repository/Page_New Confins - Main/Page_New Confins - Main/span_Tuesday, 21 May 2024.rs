@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Tuesday, 21 May 2024</name>
+   <tag></tag>
+   <elementGuidId>25963c3c-ef62-49e0-8874-17385245b279</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//span[@id='ltlBusinessDate']</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id = 'ltlBusinessDate' and (text() = 'Tuesday, 21 May 2024' or . = 'Tuesday, 21 May 2024') and @ref_element = 'Object Repository/Menu/Account Maintenance/Payment Receive/iframe_Welcome, Djunaidy, KEDOYA, BRANCH OPERATIONS SUPERVISOR_treeContainer']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#ltlBusinessDate</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>9a1b7012-c624-4813-921b-0141818e8c97</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>ltlBusinessDate</value>
+      <webElementGuid>57ce0619-2fbf-4c52-971a-5d4ef9ffbb05</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>businessDate</value>
+      <webElementGuid>bfbb31d6-77fb-48fa-bd0c-90c2c4aac294</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Tuesday, 21 May 2024</value>
+      <webElementGuid>39fe5682-0c21-4106-bc4b-a93d30c6548a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ltlBusinessDate&quot;)</value>
+      <webElementGuid>60c5ca96-cdcd-4eb5-8ba5-8bdfb3925c4e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//span[@id='ltlBusinessDate']</value>
+      <webElementGuid>10c0bdc3-dbdb-4fe8-ab4a-12f4cae0a3b9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//span[@id='navMenu']/span</value>
+      <webElementGuid>dcfa24ba-3e83-4668-88fc-9d3304b6f0bc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='HOME'])[1]/following::span[1]</value>
+      <webElementGuid>c5402849-8fdf-46fc-9450-ed78ce037a72</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='SETTING'])[1]/following::span[1]</value>
+      <webElementGuid>0eb49b5b-56fa-4fc8-892c-a44b7692f3e1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Welcome, Lelita Deviyanti, KEDOYA, Cashier'])[1]/preceding::span[1]</value>
+      <webElementGuid>28c52df4-004c-412d-9534-918d0356bfe5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Copyright © AdIns 2011. All Right Reserved'])[1]/preceding::span[3]</value>
+      <webElementGuid>3a66e711-3103-47ec-9d57-764c9618bfb1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Tuesday, 21 May 2024']/parent::*</value>
+      <webElementGuid>4abeadc6-eeb5-4258-807f-9f03d69b087b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span[2]/span</value>
+      <webElementGuid>19f8075c-2765-41d2-84d6-2e2ea91c90ef</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[@id = 'ltlBusinessDate' and (text() = 'Tuesday, 21 May 2024' or . = 'Tuesday, 21 May 2024')]</value>
+      <webElementGuid>1585f84a-ed1a-4eca-b2cb-3371c75b6a23</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

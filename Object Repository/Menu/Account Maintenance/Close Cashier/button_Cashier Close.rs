@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Cashier Close</name>
+   <tag></tag>
+   <elementGuidId>67620201-f72a-403c-bd9e-0aa87d6f81da</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@id='lbCashierClose']</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id = 'lbCashierClose' and @href = 'javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;lbCashierClose&quot;, &quot;&quot;, true, &quot;&quot;, &quot;&quot;, false, true))' and (text() = 'Cashier Close' or . = 'Cashier Close')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#lbCashierClose</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>a57aa59b-d942-4462-b507-847c3aab5ab7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>lbCashierClose</value>
+      <webElementGuid>6f773a12-edec-46ff-a4af-acc56f04ea0c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>lbMenu</value>
+      <webElementGuid>00680d77-354c-4fe3-b475-f859a38cf213</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;lbCashierClose&quot;, &quot;&quot;, true, &quot;&quot;, &quot;&quot;, false, true))</value>
+      <webElementGuid>81c5b9b6-de84-4314-8a2c-8c6b0c50c50d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Cashier Close</value>
+      <webElementGuid>29d153c9-31f3-49f6-b6c6-28e0ad92e9cb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;lbCashierClose&quot;)</value>
+      <webElementGuid>ce49cc80-eb58-4aa7-a2a9-5682b6260dd0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Menu/Account Maintenance/Open Cashier/iframe_Welcome, Djunaidy, KEDOYA, BRANCH OPERATIONS SUPERVISOR_mainPage</value>
+      <webElementGuid>ac0dc30f-eaf7-4659-a5af-80027f086594</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//a[@id='lbCashierClose']</value>
+      <webElementGuid>bb571cdf-cc4d-4c6a-86b4-e3daa1cb70ae</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//span[@id='toolMenuContainer']/a</value>
+      <webElementGuid>550761ca-7ca4-4daa-b356-6ec5e1527f0e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Cashier Close')]</value>
+      <webElementGuid>c7656513-a693-472b-a5ee-c6ed307ebf66</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='CLOSING CASHIER'])[1]/following::a[1]</value>
+      <webElementGuid>d5a74b1c-4620-4591-b62b-eb65b4841596</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='AccMnt/CloseCashier'])[1]/following::a[1]</value>
+      <webElementGuid>0a6f7c5d-60c1-4e41-83e5-7ebbe9795b94</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cancel'])[1]/preceding::a[1]</value>
+      <webElementGuid>135ef57e-c071-4c4b-a5a3-b18ef5419ded</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='[-]'])[1]/preceding::a[2]</value>
+      <webElementGuid>492ca2b7-7802-4876-8c38-d74301fc4c86</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Cashier Close']/parent::*</value>
+      <webElementGuid>87ea4004-4798-47bd-9a7d-ccb3abaf696d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;lbCashierClose&quot;, &quot;&quot;, true, &quot;&quot;, &quot;&quot;, false, true))')]</value>
+      <webElementGuid>f651b6b6-b802-4206-8301-d12b342b33f8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a</value>
+      <webElementGuid>a2c3a65f-6a69-430e-b062-089844f770e1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@id = 'lbCashierClose' and @href = 'javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;lbCashierClose&quot;, &quot;&quot;, true, &quot;&quot;, &quot;&quot;, false, true))' and (text() = 'Cashier Close' or . = 'Cashier Close')]</value>
+      <webElementGuid>68a1129d-ebce-4079-9ddc-d8ad7df8da4f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

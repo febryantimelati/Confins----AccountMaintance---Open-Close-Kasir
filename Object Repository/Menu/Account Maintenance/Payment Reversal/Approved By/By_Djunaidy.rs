@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>By_Djunaidy</name>
+   <tag></tag>
+   <elementGuidId>d184ac33-563b-45d1-8e80-fce7b1172c54</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//option[.='46120912 - Djunaidy']</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>option</value>
+      <webElementGuid>81ff687e-894b-47f8-b3b3-cc4c4d75e2c8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>css</name>
+      <type>Main</type>
+      <value>[value='2002780']</value>
+      <webElementGuid>918c8e7f-499a-4202-9a09-e0c97b19915d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//option[.='46120912 - Djunaidy']</value>
+      <webElementGuid>80d41915-30c1-48bf-87aa-9de607e200d0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>frame path</name>
+      <type>Main</type>
+      <value>iframe[id='mainPage']</value>
+      <webElementGuid>a1291c31-d97b-4a75-acf4-576b6b3b621d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Menu/Account Maintenance/Payment Reversal/iframe_Welcome, Lelita Deviyanti, KEDOYA, Cashier_mainPage</value>
+      <webElementGuid>58d0c8d2-2e56-4228-ad38-1f5bed00cfa2</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>
